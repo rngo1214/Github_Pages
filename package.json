@@ -1,0 +1,14 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "Soda bootcamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "ASU SoDA",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
